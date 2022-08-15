@@ -1,0 +1,37 @@
+body
+{
+  color: white;
+  background: rgb(192, 231, 255);
+}
+.heading
+{
+  width: 80%;
+  font-size: 22px;
+}
+#camera 
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.name_of_objects, #result_object_name  , #result_object_accuracy
+{
+  color: yellow;
+}
+
+body{
+  color: white;
+  background: rgb(50, 200, 217);
+}
+h3{
+  width: 80%;
+  font-size: 22px;
+}
+#camera{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+}
+#result_of_objects, #result_of_accuracy{
+  color: yellow;
+}
